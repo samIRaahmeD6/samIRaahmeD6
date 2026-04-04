@@ -33,7 +33,7 @@
 - Designed database structure for efficient data storage and retrieval  
 - Focused on clean UI and user-friendly experience  
 
-**Tech Stack:**  React.js/ Node.js/ Python/ MySQL (update if needed)
+**Tech Stack:**  React.js/ Node.js/ Python/ MySQL
 
 ---
 
@@ -43,7 +43,7 @@
 - Designed backend logic for handling real-time or structured communication  
 - Focused on improving team productivity and interaction  
 
-**Tech Stack:** Node.js / React.js / WebSocket (update based on your actual stack)
+**Tech Stack:** Node.js / React.js / WebSocket 
 
 ---
 
