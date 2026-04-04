@@ -53,7 +53,22 @@
 - Backend Optimization  
 
 ---
+## 🧠 Problem Solving
 
+- Solved 100+ problems on LeetCode  
+  - Easy: 86  
+  - Medium: 21  
+  - Hard: 1  
+- Currently solving at least one problem daily to strengthen DSA fundamentals  
+- Comfortable with:
+  - Arrays & Strings  
+  - Basic Recursion  
+  - Two Pointers  
+  - Problem-solving patterns  
+
+🔗 LeetCode Profile: [https://leetcode.com/u/yhrGZBUrXQ/](https://leetcode.com/u/yhrGZBUrXQ/)
+
+---
 ## 📫 Connect with Me
 - 📧 Email: samiraahmed9913@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/samiraahmed1
