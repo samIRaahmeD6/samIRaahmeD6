@@ -52,7 +52,8 @@
 - Implemented image preprocessing pipeline including normalization and resizing 
 - Improved model interpretability using visualization of feature importance
 
-**Tech Stack:** Python / TensorFlow/Keras / NumPy / OpenCV
+**Tech Stack: Python / TensorFlow/Keras / NumPy / OpenCV
+
 ---
 ## 🌱 Currently Learning
 - Django  
