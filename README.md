@@ -46,7 +46,14 @@
 **Tech Stack:** Node.js / React.js / WebSocket 
 
 ---
+### 🔹 Digit Classifier  
+- Developed a CNN-based digit classification system for recognizing handwritten digits (0–9)  
+- Trained and evaluated the model using MNIST dataset with high accuracy  
+- Implemented image preprocessing pipeline including normalization and resizing 
+- Improved model interpretability using visualization of feature importance
 
+**Tech Stack:** Python / TensorFlow/Keras / NumPy / OpenCV
+---
 ## 🌱 Currently Learning
 - Django  
 - REST API Development  
