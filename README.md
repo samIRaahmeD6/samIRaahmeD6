@@ -44,8 +44,12 @@
 - Designed backend logic for handling real-time or structured communication  
 - Focused on improving team productivity and interaction  
 
-**Tech Stack:** Node.js / React.js / WebSocket 
+**Tech Stack:** Node.js / React.js / WebSocket
+
+
 ---
+
+
 ### 🔹 [Finance Management System](https://github.com/samIRaahmeD6/FinWise)
 - Developed a financial management application to track income and expenses  
 - Implemented features like budgeting, transaction history, and balance calculation  
