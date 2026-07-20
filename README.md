@@ -38,7 +38,7 @@
 
 ---
 
-### 🔹 [TeamCollab](https://github.com/samIRaahmeD6/TeamCollab)
+### 🔹 [TeamCollab](https://github.com/samIRaahmeD6/TeamCollab_Frontend)
 - Built a team collaboration system for managing users and communication  
 - Implemented features like user management, group creation, and messaging  
 - Designed backend logic for handling real-time or structured communication  
