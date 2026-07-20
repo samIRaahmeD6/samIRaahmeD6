@@ -69,7 +69,7 @@
 
 ---
 ## 🌱 Currently Learning
-- Django  
+- Testing
 - REST API Development  
 - Backend Optimization  
 
