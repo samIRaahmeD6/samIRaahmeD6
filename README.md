@@ -28,7 +28,7 @@
 ## 📌 Projects
 
 
-### 🔹 JobTrackr – Smart Job Application Tracking System
+### 🔹 [JobTrackr – Smart Job Application Tracking System](https://github.com/samIRaahmeD6/JobTrackr)
 - Developed a scalable job tracking platform using industry-standard SDLC practices.
 - Designed scalable frontend and backend architecture using React.js, Node.js, Express, and MongoDB following MVC pattern.  
 - Developed RESTful APIs for managing job applications, user data, and application status tracking.
@@ -37,7 +37,7 @@
 **Tech Stack:** Python / TensorFlow/Keras / NumPy / OpenCV
 
 ---
-### 🔹 Finance Management System  
+### 🔹 [Finance Management System](https://github.com/samIRaahmeD6/FinWise)
 - Developed a financial management application to track income and expenses  
 - Implemented features like budgeting, transaction history, and balance calculation  
 - Designed database structure for efficient data storage and retrieval  
@@ -47,7 +47,7 @@
 
 ---
 
-### 🔹 TeamCollab (Collaboration Platform)  
+### 🔹 [TeamCollab](https://github.com/samIRaahmeD6/TeamCollab)
 - Built a team collaboration system for managing users and communication  
 - Implemented features like user management, group creation, and messaging  
 - Designed backend logic for handling real-time or structured communication  
@@ -56,7 +56,7 @@
 **Tech Stack:** Node.js / React.js / WebSocket 
 
 ---
-### 🔹 Digit Classifier  
+### 🔹 [Digit Classifier](https://github.com/samIRaahmeD6/Digit-Classifier)
 - Developed a CNN-based digit classification system for recognizing handwritten digits (0–9)  
 - Trained and evaluated the model using MNIST dataset with high accuracy  
 - Implemented image preprocessing pipeline including normalization and resizing 
@@ -89,7 +89,7 @@
 ---
 ## 📫 Connect with Me
 - 📧 Email: samiraahmed9913@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/samiraahmed1
+- 💼 LinkedIn: [www.linkedin.com/in/samiraahmed1](https://www.linkedin.com/in/samiraahmed1)
 - 💻 GitHub: https://github.com/samIRaahmeD6  
 
 ---
