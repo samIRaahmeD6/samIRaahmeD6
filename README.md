@@ -27,6 +27,16 @@
 
 ## 📌 Projects
 
+
+### 🔹 JobTrackr – Smart Job Application Tracking System
+- Developed a scalable job tracking platform using industry-standard SDLC practices.
+- Designed scalable frontend and backend architecture using React.js, Node.js, Express, and MongoDB following MVC pattern.  
+- Developed RESTful APIs for managing job applications, user data, and application status tracking.
+- Integrated real-time data insights to identify skill gaps based on rejected job applications and CV analyzer.
+
+**Tech Stack:** Python / TensorFlow/Keras / NumPy / OpenCV
+
+---
 ### 🔹 Finance Management System  
 - Developed a financial management application to track income and expenses  
 - Implemented features like budgeting, transaction history, and balance calculation  
