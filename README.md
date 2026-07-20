@@ -34,7 +34,7 @@
 - Developed RESTful APIs for managing job applications, user data, and application status tracking.
 - Integrated real-time data insights to identify skill gaps based on rejected job applications and CV analyzer.
 
-**Tech Stack:** Python / TensorFlow/Keras / NumPy / OpenCV
+**Tech Stack:** React.js / Node.js / Express.js / MongoDB / Tailwind
 
 ---
 
@@ -44,7 +44,7 @@
 - Designed backend logic for handling real-time or structured communication  
 - Focused on improving team productivity and interaction  
 
-**Tech Stack:** Node.js / React.js / WebSocket
+**Tech Stack:** Node.js / React.js / WebSocket / Tailwind
 
 
 ---
